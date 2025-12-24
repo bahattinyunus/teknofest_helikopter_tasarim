@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# CAD Files (large binaries)
+*.SLDPRT
+*.SLDASM
+*.SLDDRW
+*.prt
+*.asm
+*.drw
+
+# ANSYS
+*.rst
+*.rth
+*.db
+*.mntr
+*.page
+*.stat
+*.err
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-*
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
